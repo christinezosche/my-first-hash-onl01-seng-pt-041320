@@ -2,8 +2,6 @@ def my_hash
   Reys_favorite_things = {"food" => "salmon and pea dry food" "toy" => "wire chaser" "person" => "me" "place to sleep" => "bean bag"}
 end
 
-  
-end
 
 
 def shipping_manifest
