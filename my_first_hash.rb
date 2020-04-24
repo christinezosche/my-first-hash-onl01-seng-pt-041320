@@ -1,5 +1,6 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
+  Reys_favorite_things = {"food" => "salmon and pea dry food" "toy" => "wire chaser" "person" => "me" "place to sleep" => "bean bag"}
+end
 
   
 end
